@@ -1,0 +1,30 @@
+@charset "UTF-8";
+h1{
+	font-size:130%;
+	text-align:center;
+	color:white;
+}
+form{
+	text-align:center;
+}
+.section-main,.section-option{
+	text-align: center;
+	border:1px solid white;
+	width:200px;
+	padding:10px;
+	margin:0 auto;
+	margin-bottom:10px;
+	background-color: white;
+}
+
+.section-bottun{
+	text-align: center;
+}
+
+body{
+	background-color:gray;
+	background-image: url('ゆるきゃら.png'),url('11535.png');
+    background-repeat: no-repeat,no-repeat;
+    background-position: right bottom,left bottom;
+    background-size: 350px,150px; 
+}
